@@ -4,6 +4,7 @@
 /src/img
 /src/reducers
 App.css
+/src/mimic
 App.js
 store.js
 
